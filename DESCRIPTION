@@ -18,5 +18,6 @@ Imports:
     magrittr,
     ggplot2,
     purrr,
-    grid
+    grid,
+    dagitty
 RoxygenNote: 6.1.1
